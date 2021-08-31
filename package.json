@@ -1,0 +1,22 @@
+{
+  "name": "chapitre04",
+  "version": "1.0.0",
+  "description": "Exemples du chapitre 4 du cours programmation web 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alain-clg/chapitre4.git"
+  },
+  "author": "Alain Pilon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alain-clg/chapitre4/issues"
+  },
+  "homepage": "https://github.com/alain-clg/chapitre4#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
