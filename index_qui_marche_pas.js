@@ -5,6 +5,7 @@ let monJournal = new Logger();
 
 function toto(data) {
     console.log('avertissement:', data);
+    // il faut completer ici pour que cela fonctionne...
     // fs.appendFile(
     //     path.join(...),
     //     `avertissement: { \n  id: ${data.id}, temps: ${data.temps}  },`,

@@ -4,7 +4,8 @@
   "description": "Exemples du chapitre 4 du cours programmation web 1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon http_demo",
+    "start": "node index"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/alain-clg/chapitre4#readme",
   "dependencies": {
+    "nodemon": "^2.0.12",
     "uuid": "^8.3.2"
   }
 }
